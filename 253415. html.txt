@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mi primer WEB</title>
+    <style>
+      body {
+        background-color: #fff8dc; /* fondo color crema suave */
+        font-family: Arial, sans-serif;
+      }
+
+      #una_capa {
+        color: goldenrod; /* color dorado para todo el texto */
+        text-align: center; /* centra el contenido */
+        margin-top: 100px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="una_capa">
+      <h1>UPChiapas</h1>
+      <h2>Fabricio Elpidio Cordova Molina</h2>
+      <h3>253415</h3>
+    </div>
+  </body>  
+</html>
